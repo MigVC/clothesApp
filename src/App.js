@@ -1,25 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import axios from "axios";
+import { useEffect, useState } from "react";
+import { DashboardRoutes } from "./routers/DashboardRoutes";
+import React from "react";
 
-function App() {
+export const App = () => {
+
+  const [product, setProduct] = useState([])
+
+  const getData = async () => {
+    const res = await axios.get("https://fakestoreapi.com/products")
+    setProduct(res.data)
+  }
+
+  useEffect(() => {
+    getData()
+  },[])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div> 
+      <DashboardRoutes product={product} />
+
     </div>
   );
 }
 
-export default App;
