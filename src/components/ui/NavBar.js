@@ -6,7 +6,7 @@ export const NavBar = () => {
     <nav className='navbar navbar-expand-sm navbar-dark bg-dark px-2 sticky-top'>
         <div className='container-fluid'>
             <Link 
-                to="/"
+                to="/clothesApp"
                 className='navbar-brand'    
             >
                 Home

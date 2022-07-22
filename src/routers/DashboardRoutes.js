@@ -14,7 +14,7 @@ export const DashboardRoutes = ({product}) => {
     <BrowserRouter>
         <NavBar />
         <Routes>
-            <Route path="/" element={<HomeScreen/>}/>
+            <Route path="/clothesApp" element={<HomeScreen/>}/>
             <Route path="/Electronic" element={<ElectronicScreen product={product}/>}/>
             <Route path="/Jewelery" element={<JeweleryScreen product={product}/>}/>
             <Route path="/Men" element={<MenScreen product={product}/>}/>
