@@ -1,5 +1,4 @@
 import React from 'react'
-import "../../styles/style.css"
 import react from "../../img/react.png"
 import fakestore from "../../img/fakestore.png"
 import bootstrap from "../../img/bootstrap.png"
@@ -7,7 +6,7 @@ import bootstrap from "../../img/bootstrap.png"
 export const HomeScreen = () => {
   return (
     <div className='animate__animated animate__fadeIn'>
-      <div>
+      
         <div className='landing'>
           <div className='content text-center text-uppercase text-light'>
             <h2> Welcome to my web page made with React </h2>
@@ -73,7 +72,7 @@ export const HomeScreen = () => {
           </div>
         </div>
 
-      </div>
+    
 
       
       

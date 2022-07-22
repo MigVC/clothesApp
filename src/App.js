@@ -2,6 +2,7 @@ import axios from "axios";
 import { useEffect, useState } from "react";
 import { DashboardRoutes } from "./routers/DashboardRoutes";
 import React from "react";
+import "./styles/style.css"
 
 export const App = () => {
 
@@ -17,10 +18,10 @@ export const App = () => {
   },[])
 
   return (
-    <div> 
+    <div className="principal">
       <DashboardRoutes product={product} />
-
     </div>
+        
   );
 }
 
