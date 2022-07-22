@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "bec0d95c89b5c0514b04",
+    "revision": "ba4b2052925af3c012b9",
     "url": "/clothesApp/static/css/main.62714f5d.chunk.css"
   },
   {
-    "revision": "bec0d95c89b5c0514b04",
-    "url": "/clothesApp/static/js/main.bec0d95c.chunk.js"
+    "revision": "ba4b2052925af3c012b9",
+    "url": "/clothesApp/static/js/main.ba4b2052.chunk.js"
   },
   {
     "revision": "1575f2b38d7b90998e58",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/clothesApp/static/media/bootstrap.893c50cb.png"
   },
   {
-    "revision": "c167307206eba2e057894c758eda41f8",
+    "revision": "07e19cf8dc3203e0c92194b9c568949c",
     "url": "/clothesApp/index.html"
   }
 ];
