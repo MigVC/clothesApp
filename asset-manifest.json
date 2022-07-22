@@ -1,0 +1,16 @@
+{
+  "main.css": "/clothesApp/static/css/main.62714f5d.chunk.css",
+  "main.js": "/clothesApp/static/js/main.bec0d95c.chunk.js",
+  "main.js.map": "/clothesApp/static/js/main.bec0d95c.chunk.js.map",
+  "static/js/1.1575f2b3.chunk.js": "/clothesApp/static/js/1.1575f2b3.chunk.js",
+  "static/js/1.1575f2b3.chunk.js.map": "/clothesApp/static/js/1.1575f2b3.chunk.js.map",
+  "runtime~main.js": "/clothesApp/static/js/runtime~main.caad86b8.js",
+  "runtime~main.js.map": "/clothesApp/static/js/runtime~main.caad86b8.js.map",
+  "static/media/react.png": "/clothesApp/static/media/react.9b9d25e7.png",
+  "static/media/fakestore.png": "/clothesApp/static/media/fakestore.d4f68bd8.png",
+  "static/media/bootstrap.png": "/clothesApp/static/media/bootstrap.893c50cb.png",
+  "static/css/main.62714f5d.chunk.css.map": "/clothesApp/static/css/main.62714f5d.chunk.css.map",
+  "index.html": "/clothesApp/index.html",
+  "precache-manifest.299499d11839c5a082248b6569ffbd39.js": "/clothesApp/precache-manifest.299499d11839c5a082248b6569ffbd39.js",
+  "service-worker.js": "/clothesApp/service-worker.js"
+}
