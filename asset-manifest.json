@@ -1,16 +1,16 @@
 {
-  "main.css": "/static/css/main.62714f5d.chunk.css",
-  "main.js": "/static/js/main.b5ac799d.chunk.js",
-  "main.js.map": "/static/js/main.b5ac799d.chunk.js.map",
-  "static/js/1.1575f2b3.chunk.js": "/static/js/1.1575f2b3.chunk.js",
-  "static/js/1.1575f2b3.chunk.js.map": "/static/js/1.1575f2b3.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/react.png": "/static/media/react.9b9d25e7.png",
-  "static/media/fakestore.png": "/static/media/fakestore.d4f68bd8.png",
-  "static/media/bootstrap.png": "/static/media/bootstrap.893c50cb.png",
-  "static/css/main.62714f5d.chunk.css.map": "/static/css/main.62714f5d.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.f595e1a8ead63e79304544edbdc49655.js": "/precache-manifest.f595e1a8ead63e79304544edbdc49655.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/clothesApp/static/css/main.3498c43d.css",
+    "main.js": "/clothesApp/static/js/main.86b58712.js",
+    "static/media/react.png": "/clothesApp/static/media/react.f3e576ba08e6be927148.png",
+    "static/media/bootstrap.png": "/clothesApp/static/media/bootstrap.ff4ba441ec3324145fde.png",
+    "static/media/fakestore.png": "/clothesApp/static/media/fakestore.450fdfd3431b1a282548.png",
+    "index.html": "/clothesApp/index.html",
+    "main.3498c43d.css.map": "/clothesApp/static/css/main.3498c43d.css.map",
+    "main.86b58712.js.map": "/clothesApp/static/js/main.86b58712.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3498c43d.css",
+    "static/js/main.86b58712.js"
+  ]
 }
