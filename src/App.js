@@ -18,7 +18,7 @@ export const App = () => {
   },[])
 
   return (
-    <div className="principal">
+    <div>
       <DashboardRoutes product={product} />
     </div>
         
